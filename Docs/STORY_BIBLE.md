@@ -1,108 +1,119 @@
 # WAE: Story Bible
 
-## Ideia central
+## Direção narrativa correta
 
-**WAE: World After End** acompanha um protagonista preso em uma versão pós-apocalíptica e distorcida de Campo Mourão.
+O foco principal de **WAE** não é o coma.
 
-Durante quase todo o jogo, o jogador acredita estar vivendo uma história sobre o último ser humano vivo na Terra. Porém, a verdade começa a aparecer aos poucos: o apocalipse pode ser uma construção mental criada durante um coma.
+O foco principal é a experiência de sobreviver sozinho em um mundo aparentemente morto, ambientado em uma versão distorcida de Campo Mourão.
 
-O mundo abandonado é uma forma simbólica que a mente encontrou para interpretar dor, vozes, memórias, sons hospitalares e tentativas reais de acordá-lo.
+A possibilidade de coma, sonho ou trauma deve funcionar como camada oculta e progressiva, não como explicação central entregue de imediato.
 
-## Tema principal
+O jogador precisa primeiro acreditar no apocalipse.
 
-O jogo não pergunta apenas:
+Depois, precisa desconfiar da realidade.
 
-> Como sobreviver ao fim do mundo?
+Só muito mais tarde deve perceber que talvez os delírios tenham origem em algo real.
 
-Ele pergunta:
+## Premissa emocional
 
-> Como acordar de um mundo que sua mente criou para te proteger?
+O protagonista acorda em sua antiga casa no centro de Campo Mourão e descobre uma cidade completamente vazia.
 
-## A jornada entre duas casas
+A ausência de pessoas é o primeiro terror.
 
-A estrutura emocional do jogo é baseada no deslocamento entre dois lugares:
+A presença de coisas que não deveriam existir é o segundo.
 
-1. A casa antiga no centro da cidade.
-2. A chácara na região da Usina Mourão.
+O jogo começa como sobrevivência.
 
-A casa antiga representa passado, memória, infância, origem e trauma.
+Depois vira paranoia.
 
-A chácara representa refúgio, presente, sobrevivência, descanso e desejo de voltar para a vida.
+Depois vira terror psicológico.
 
-A viagem entre esses pontos é física dentro do jogo, mas psicológica dentro da narrativa.
+Depois vira dúvida ontológica: o que é real?
 
-## Campo Mourão como mente
+## Regra principal
 
-Campo Mourão não é apenas cenário.
+O coma não deve invalidar o mundo.
 
-A cidade funciona como uma representação da mente do protagonista:
+Mesmo se o apocalipse for uma construção mental, tudo que o jogador enfrentou precisa ter peso emocional e narrativo.
 
-- ruas vazias representam isolamento;
-- mercados apodrecidos representam urgência e perda;
-- hospital representa realidade vazando;
-- escola representa passado;
-- estrada representa travessia;
-- chácara representa desejo de paz;
-- rádio representa comunicação com o mundo real.
+O twist não é:
 
-## O coma
+> Era tudo mentira.
 
-O protagonista está em coma.
+O twist é:
 
-A causa exata pode ser revelada aos poucos. Uma possibilidade forte é um acidente ligado ao trajeto entre a cidade e a chácara.
+> Tudo era uma forma distorcida de algo tentando atravessar a mente dele.
 
-O cérebro dele transforma estímulos reais em eventos do mundo apocalíptico.
+## Campo Mourão
 
-Vozes no quarto viram sussurros.
+Campo Mourão deve funcionar como cenário físico e psicológico.
 
-Médicos viram figuras distorcidas.
+A cidade representa:
 
-Procedimentos viram ataques.
+- memória;
+- infância;
+- passado;
+- isolamento;
+- abandono;
+- familiaridade corrompida;
+- medo de lugares conhecidos se tornarem irreconhecíveis.
 
-Monitor cardíaco vira sirene.
+## A casa antiga
 
-Música colocada no hospital vira rádio dentro do mundo.
+A casa antiga é o ponto de origem.
 
-## Regras da revelação
+Ela representa passado, segurança perdida e início da jornada.
 
-A revelação não deve parecer uma pegadinha.
+Objetivo simbólico:
 
-O jogo precisa plantar pistas desde o início.
+> sair do passado.
 
-O jogador deve terminar e pensar:
+## A chácara
 
-> Estava tudo na minha frente.
+A chácara representa refúgio, presente e tentativa de construir rotina.
 
-## Pistas possíveis
+Mas ela também pode se tornar prisão.
 
-- rádios repetindo frases médicas distorcidas;
-- bipes no ritmo de monitores cardíacos;
-- luz branca invadindo cenas;
-- chuva com som parecido com soro pingando;
-- inimigos com sons de respiração artificial;
-- hospital aparecendo onde não deveria;
-- vozes chamando o protagonista pelo nome;
-- relógios parados no horário do acidente;
-- portas que levam da cidade para corredores hospitalares;
-- músicas que parecem vir de fora do mundo.
+Objetivo simbólico:
 
-## O Último Eu
+> descobrir se paz é sobrevivência ou desistência.
 
-O Último Eu é a manifestação final da mente do protagonista.
+## O hospital
 
-Ele não é apenas um vilão.
+O hospital não deve ser anunciado como “prova do coma” cedo demais.
 
-Ele é a parte da mente que acredita que acordar dói demais.
+Ele deve ser perturbador porque parece real demais dentro de um mundo que deveria estar morto.
 
-Ele representa medo, desistência, permanência e conforto falso.
+Ele funciona como rachadura na realidade.
 
-Sua função é tentar convencer o protagonista a ficar no mundo do coma.
+## Música
 
-## Final ideal
+A música é ponte emocional.
 
-O melhor final é ambíguo.
+Ela pode ser:
 
-O protagonista acorda, mas algo do mundo do coma aparece no mundo real.
+- conforto;
+- memória;
+- aviso;
+- companhia;
+- distorção;
+- comunicação;
+- pista.
 
-Isso mantém a tensão e impede que o final seja apenas “era tudo sonho”.
+## Delírios
+
+Os delírios precisam ter dupla leitura:
+
+1. Como ameaça do mundo pós-apocalíptico.
+2. Como possível eco de algo externo, interno ou traumático.
+
+## Final
+
+O final ideal deve preservar ambiguidade.
+
+O jogador pode entender a possibilidade de coma, mas não deve sentir que todo o jogo foi reduzido a isso.
+
+O objetivo é deixar a pergunta:
+
+> Ele descobriu a verdade ou apenas encontrou uma explicação que sua mente suportava?
 
