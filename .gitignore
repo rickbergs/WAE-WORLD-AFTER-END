@@ -1,0 +1,49 @@
+# Unreal Engine
+.vs/
+.vscode/
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vsconfig
+
+# Builds
+Builds/
+*.apk
+*.exe
+*.pak
+*.zip
+*.7z
+*.rar
+*.AppImage
+
+# Unreal generated
+*.opensdf
+*.sdf
+*.suo
+*.xcodeproj
+*.xcworkspace
+*.VC.db
+*.VC.opendb
+
+# Logs
+*.log
+
+# Linux
+*~
+.directory
+.Trash-*
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Blender backups
+*.blend1
+*.blend2
+
+# Temporary
+Temp/
+tmp/
+.cache/
