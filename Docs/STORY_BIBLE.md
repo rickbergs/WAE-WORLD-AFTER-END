@@ -1,119 +1,130 @@
 # WAE: Story Bible
 
-## Direção narrativa correta
+## Estado atual
 
-O foco principal de **WAE** não é o coma.
+Este documento organiza a visão narrativa inicial de **WAE: World After End**.
 
-O foco principal é a experiência de sobreviver sozinho em um mundo aparentemente morto, ambientado em uma versão distorcida de Campo Mourão.
+O projeto ainda está em fase de conceito e desenvolvimento inicial. Nada aqui deve ser tratado como definitivo, mas sim como a base criativa que guia o jogo.
 
-A possibilidade de coma, sonho ou trauma deve funcionar como camada oculta e progressiva, não como explicação central entregue de imediato.
+## Direção narrativa
+
+**WAE** é, antes de tudo, um survival psicológico sobre solidão, sobrevivência e realidade instável.
+
+A camada de coma, sonho, trauma ou fenômeno sobrenatural não deve dominar o jogo desde o começo.
 
 O jogador precisa primeiro acreditar no apocalipse.
 
-Depois, precisa desconfiar da realidade.
+Depois, precisa desconfiar da cidade.
 
-Só muito mais tarde deve perceber que talvez os delírios tenham origem em algo real.
+Depois, precisa desconfiar da própria mente.
 
-## Premissa emocional
+Só no fim ele deve perceber que talvez algumas coisas sempre estivessem tentando falar com ele.
 
-O protagonista acorda em sua antiga casa no centro de Campo Mourão e descobre uma cidade completamente vazia.
+## Localização
 
-A ausência de pessoas é o primeiro terror.
+O jogo se passa em uma cidade ficcional do interior do Paraná.
 
-A presença de coisas que não deveriam existir é o segundo.
+A cidade pode ser inspirada em lugares reais, mas nunca deve ser uma cópia exata.
 
-O jogo começa como sobrevivência.
+O objetivo é criar um cenário emocional:
 
-Depois vira paranoia.
-
-Depois vira terror psicológico.
-
-Depois vira dúvida ontológica: o que é real?
+- familiar;
+- brasileiro;
+- interiorano;
+- vazio;
+- reconhecível;
+- estranho;
+- íntimo;
+- assustador.
 
 ## Regra principal
 
-O coma não deve invalidar o mundo.
+O final não pode transformar tudo em “era só sonho”.
 
-Mesmo se o apocalipse for uma construção mental, tudo que o jogador enfrentou precisa ter peso emocional e narrativo.
+Mesmo que exista coma, trauma ou delírio, a jornada precisa continuar tendo peso.
 
-O twist não é:
+O mundo pode não ser real do jeito que o protagonista entende.
 
-> Era tudo mentira.
-
-O twist é:
-
-> Tudo era uma forma distorcida de algo tentando atravessar a mente dele.
-
-## Campo Mourão
-
-Campo Mourão deve funcionar como cenário físico e psicológico.
-
-A cidade representa:
-
-- memória;
-- infância;
-- passado;
-- isolamento;
-- abandono;
-- familiaridade corrompida;
-- medo de lugares conhecidos se tornarem irreconhecíveis.
+Mas o medo, a solidão, a culpa e a vontade de viver são reais.
 
 ## A casa antiga
 
-A casa antiga é o ponto de origem.
+Representa origem, passado e segurança perdida.
 
-Ela representa passado, segurança perdida e início da jornada.
+O jogador começa ali porque é um lugar que deveria ser íntimo.
 
-Objetivo simbólico:
+Quando até a própria casa parece estranha, o mundo inteiro já está errado.
 
-> sair do passado.
+## A cidade
+
+Representa isolamento e colapso.
+
+Ela deve parecer morta, mas nunca completamente silenciosa.
+
+Sempre deve existir a sensação de que alguma coisa escuta.
 
 ## A chácara
 
-A chácara representa refúgio, presente e tentativa de construir rotina.
+Representa refúgio, presente e desejo de paz.
 
-Mas ela também pode se tornar prisão.
+Mas a chácara também pode virar prisão.
 
-Objetivo simbólico:
+O jogo deve brincar com essa dúvida:
 
-> descobrir se paz é sobrevivência ou desistência.
+> paz é recuperação ou desistência?
 
 ## O hospital
 
-O hospital não deve ser anunciado como “prova do coma” cedo demais.
+O hospital é uma rachadura.
 
-Ele deve ser perturbador porque parece real demais dentro de um mundo que deveria estar morto.
+Ele não deve explicar tudo cedo demais.
 
-Ele funciona como rachadura na realidade.
+Ele deve apenas parecer real demais, limpo demais, branco demais, sonoro demais.
 
-## Música
+Um lugar que não combina com o apocalipse.
 
-A música é ponte emocional.
+## Rádio
 
-Ela pode ser:
+O rádio é o objeto mais importante do jogo.
 
-- conforto;
-- memória;
-- aviso;
-- companhia;
-- distorção;
-- comunicação;
-- pista.
+Ele é companhia, pista, ameaça e ponte.
 
-## Delírios
+No começo, o rádio guia o jogador.
 
-Os delírios precisam ter dupla leitura:
+No fim, ele prova que algo do mundo abandonado ainda não acabou.
 
-1. Como ameaça do mundo pós-apocalíptico.
-2. Como possível eco de algo externo, interno ou traumático.
+## Final planejado
 
-## Final
+Depois da luta contra o Último Eu, o protagonista acorda em um hospital.
 
-O final ideal deve preservar ambiguidade.
+Tudo parece real.
 
-O jogador pode entender a possibilidade de coma, mas não deve sentir que todo o jogo foi reduzido a isso.
+Tudo parece explicado.
 
-O objetivo é deixar a pergunta:
+Mas um rádio desligado começa a chiar.
 
-> Ele descobriu a verdade ou apenas encontrou uma explicação que sua mente suportava?
+A mesma música do mundo abandonado toca por dois segundos.
 
+Depois, uma voz diz:
+
+> **Encontre outra voz.**
+
+Corte para preto.
+
+## Interpretação
+
+O final deve abrir teorias, não fechar portas.
+
+Possibilidades:
+
+- o protagonista acordou, mas ficou traumatizado;
+- ele ainda está em coma;
+- o mundo do jogo era uma camada mental;
+- algo do mundo mental vazou para a realidade;
+- a realidade do hospital também é falsa;
+- existe um elemento sobrenatural;
+- o apocalipse era símbolo, mas não mentira.
+
+A resposta nunca deve ser 100% confirmada.
+
+A força do final está em deixar o jogador pensando.
