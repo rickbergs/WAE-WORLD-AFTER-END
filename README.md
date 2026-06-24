@@ -1,10 +1,18 @@
 # WAE: World After End
 
-**WAE: World After End** é um jogo de sobrevivência psicológica em desenvolvimento, ambientado em um mundo onde toda a humanidade desapareceu, restando apenas uma única pessoa viva.
+**WAE: World After End** é um jogo de sobrevivência psicológica em primeira pessoa ambientado em uma versão ficcionalizada de Campo Mourão, Paraná, onde o protagonista aparentemente acorda como a última pessoa viva da Terra.
 
-O projeto mistura sobrevivência física, terror psicológico, exploração narrativa, colapso ambiental, alucinações, solidão extrema e uma estética antiga inspirada em rádio, fitas cassete, VHS, rock clássico, pós-punk, new wave e memórias de uma civilização que deixou de existir.
+O jogo começa em uma casa antiga no meio da cidade e acompanha a jornada do personagem por ruas vazias, mercados abandonados, hospitais, estradas, memórias distorcidas e, futuramente, uma chácara isolada inspirada na região da Usina Mourão.
 
-A proposta do jogo não é colocar o jogador contra zumbis, monstros ou facções inimigas. O verdadeiro inimigo é o silêncio, o tempo, a degradação do mundo e a mente do próprio protagonista.
+À primeira vista, **WAE** parece ser uma história sobre o fim do mundo.
+
+Mas, com o tempo, o jogador começa a perceber que o apocalipse talvez não seja real.
+
+Os sussurros, os vultos, as pessoas distorcidas, os rádios chamando pelo nome do protagonista e os monstros psicológicos podem ser ecos de acontecimentos reais invadindo a mente dele durante um coma.
+
+O mundo acabou.
+
+Ou talvez ele apenas esteja tentando acordar.
 
 ---
 
@@ -14,21 +22,205 @@ A proposta do jogo não é colocar o jogador contra zumbis, monstros ou facçõe
 
 ---
 
-## Conceito
+## Nova frase central da narrativa
 
-Em **WAE: World After End**, o jogador assume o papel do último ser humano vivo na Terra. Sem explicações imediatas, sem missões heroicas e sem promessa de salvação, o protagonista acorda em uma cidade completamente silenciosa, cercado por carros abandonados, casas abertas, incêndios, corpos, rádios chiando e aparelhos ainda ligados.
-
-Nos primeiros momentos, ainda existe esperança. Talvez haja alguém em algum lugar. Talvez uma voz no rádio seja real. Talvez uma luz acesa em uma casa distante signifique presença humana. Mas, conforme os dias passam, o vazio começa a se tornar uma ameaça.
-
-A sobrevivência deixa de ser apenas física. O jogador precisa lidar com fome, sede, sono, ferimentos, doenças, falta de energia, escassez de recursos e colapso das estruturas humanas. Ao mesmo tempo, precisa enfrentar a solidão absoluta, a perda de sanidade, as memórias do mundo antigo e as figuras imaginárias que começam a aparecer.
-
-O objetivo não é salvar o mundo.
-
-O objetivo é continuar vivo em um mundo que já acabou.
+> **E se o fim do mundo fosse só a forma que sua mente encontrou para pedir ajuda?**
 
 ---
 
-## Principais pilares
+## Conceito principal
+
+**WAE: World After End** é um survival psicológico em que o jogador assume o papel de uma pessoa presa em uma versão abandonada, silenciosa e distorcida de Campo Mourão.
+
+No início, tudo indica que a humanidade desapareceu. A cidade está vazia. Carros estão abandonados. Casas estão abertas. Mercados apodrecem. Hospitais parecem ter sido deixados às pressas. Rádios chiam. Televisões exibem estática. Não há vozes humanas.
+
+O primeiro objetivo é simples:
+
+> **Encontre outra voz.**
+
+Porém, conforme os dias passam, a busca por sobreviventes se transforma em uma luta contra a própria percepção da realidade.
+
+O protagonista começa a ouvir sussurros. Depois vê pessoas de longe. Depois encontra figuras distorcidas. Depois percebe que certas frases, sons e imagens não parecem pertencer ao mundo abandonado, mas a outro lugar.
+
+A revelação central do jogo é que o apocalipse pode ser uma interpretação criada pelo cérebro do protagonista enquanto ele está em coma.
+
+As vozes no rádio podem ser familiares ou médicos tentando falar com ele.
+
+Os monstros podem ser procedimentos médicos distorcidos.
+
+As luzes brancas podem ser exames.
+
+O som de chuva pode ser soro pingando.
+
+As sirenes podem ser monitores cardíacos.
+
+O hospital abandonado pode ser a realidade vazando para dentro do sonho.
+
+O jogo inteiro é uma travessia entre memória, trauma, sobrevivência e despertar.
+
+---
+
+## Localização
+
+O jogo se passa em uma versão ficcionalizada de **Campo Mourão, Paraná, Brasil**.
+
+A cidade não será uma reprodução exata. Ela será uma mistura de lugares reais, memórias pessoais, distorções psicológicas e espaços simbólicos.
+
+A jornada principal segue uma lógica emocional:
+
+- casa antiga no centro da cidade;
+- ruas vazias de Campo Mourão;
+- mercados, farmácias, escolas, hospitais e bairros abandonados;
+- estrada em direção à região da Usina Mourão;
+- chácara isolada como possível refúgio;
+- fusão final entre cidade, hospital, casa antiga e chácara.
+
+Por segurança e privacidade, casas reais, rotas exatas, endereços e layouts pessoais devem ser alterados, misturados e ficcionalizados.
+
+A ideia não é recriar a realidade com precisão documental.
+
+A ideia é transformar lugares familiares em pesadelo psicológico.
+
+---
+
+## Premissa narrativa
+
+O protagonista acorda em uma antiga casa no meio de Campo Mourão.
+
+A televisão está ligada em estática.
+
+Um rádio antigo toca uma música baixa.
+
+Lá fora, a cidade está silenciosa.
+
+Não há pessoas.
+
+Nos primeiros dias, o jogador acredita estar vivendo o fim do mundo. Ele coleta água, comida, remédios, pilhas, ferramentas e combustível. Explora casas, mercados, farmácias e hospitais. Tenta entender o que aconteceu.
+
+Mas o mundo começa a falhar.
+
+Ruas se repetem.
+
+Portas levam a lugares impossíveis.
+
+Vultos aparecem em janelas.
+
+Vozes chamam pelo nome do protagonista.
+
+O rádio transmite frases que parecem respostas.
+
+O hospital abandonado possui sons estranhamente reais: bipes, passos, luz branca, vozes abafadas, alarmes e cheiro de álcool.
+
+Com o tempo, o jogador entende que talvez nada daquilo seja um apocalipse real.
+
+Talvez seja um coma.
+
+Talvez a mente do protagonista esteja transformando acontecimentos reais em símbolos de sobrevivência.
+
+A jornada da casa antiga até a chácara representa uma tentativa de atravessar o próprio trauma e chegar a um lugar seguro dentro da mente.
+
+---
+
+## Interpretação real por trás do apocalipse
+
+O jogo deve funcionar em duas camadas.
+
+### Camada 1 — O jogador acredita no apocalipse
+
+Na primeira experiência, o jogador vê um mundo pós-apocalíptico solitário, onde precisa sobreviver fisicamente e mentalmente.
+
+### Camada 2 — O jogador percebe o coma
+
+Depois, o jogador entende que muitos eventos tinham origem real.
+
+| Mundo do coma | Possível realidade |
+|---|---|
+| Rádio chiando | Vozes no quarto do hospital |
+| Rádio falando o nome do protagonista | Alguém tentando acordá-lo |
+| Sussurros atrás das paredes | Médicos, enfermeiros ou familiares conversando |
+| Luz branca intensa | Exames, lanternas médicas ou luz hospitalar |
+| Sirenes distantes | Monitor cardíaco ou alarmes médicos |
+| Chuva constante | Soro pingando |
+| Monstros sem rosto | Pessoas vistas de forma incompleta durante sedação |
+| Ataques de criaturas | Procedimentos médicos ou dor física |
+| Falta de ar | Respiração assistida, sedação ou trauma |
+| Hospital abandonado | Realidade invadindo o coma |
+| Cidade vazia | Isolamento mental |
+| Chácara | Desejo de segurança e retorno à vida |
+| Último Eu | Parte da mente que quer desistir ou permanecer no coma |
+
+A força do twist é que ele não invalida a jornada.
+
+O apocalipse pode ser falso, mas a luta era real.
+
+---
+
+## Ambientação
+
+A ambientação mistura:
+
+- Campo Mourão vazia;
+- ruas conhecidas transformadas em espaços estranhos;
+- casas familiares distorcidas;
+- hospital como ponto de vazamento da realidade;
+- estradas silenciosas;
+- chácara como refúgio;
+- chuva;
+- rádio;
+- fitas cassete;
+- televisões com estática;
+- estética VHS;
+- rock antigo;
+- pós-punk;
+- memórias de infância;
+- sensação de domingo morto;
+- medo de nunca acordar.
+
+O mundo visualmente deve parecer real o suficiente para ser reconhecível, mas errado o suficiente para gerar desconforto.
+
+---
+
+## Música como mecânica
+
+A música é uma das partes centrais de **WAE**.
+
+Ela não existe apenas como trilha sonora. Ela faz parte do mundo.
+
+O jogador encontra músicas em:
+
+- rádios;
+- fitas cassete;
+- carros;
+- vinis;
+- televisões;
+- gravadores;
+- lojas de discos;
+- caixas de som abandonadas.
+
+A trilha deve ser original, mas inspirada em atmosferas de rock clássico, pós-punk, new wave, punk, funk rock, pop experimental e músicas nostálgicas.
+
+Referências de clima:
+
+- AC/DC;
+- Molchat Doma;
+- Queen;
+- Prince;
+- Beatles;
+- Kate Bush;
+- The Police;
+- The Clash.
+
+A música também representa a ligação entre o coma e o mundo real.
+
+Talvez alguém no hospital esteja colocando músicas para o protagonista ouvir.
+
+Quando ele está mais lúcido, a música soa limpa.
+
+Quando ele está afundando no coma, a música distorce, desacelera, falha e mistura vozes reais.
+
+---
+
+## Sistemas principais
 
 ### Sobrevivência física
 
@@ -38,312 +230,310 @@ O jogador precisa gerenciar:
 - comida;
 - sono;
 - saúde;
+- infecção;
 - ferimentos;
-- infecções;
 - remédios;
 - peso carregado;
+- temperatura;
 - combustível;
 - pilhas;
 - ferramentas;
-- temperatura;
 - abrigo.
-
-Com o passar dos dias, alimentos apodrecem, a energia elétrica cai, a água encanada para, remédios se tornam mais valiosos, combustível perde qualidade e áreas urbanas se tornam progressivamente mais perigosas.
-
----
 
 ### Sobrevivência psicológica
 
-A mente do protagonista é o sistema mais importante do jogo.
+A sanidade controla a estabilidade da realidade.
 
-A solidão extrema afeta diretamente a percepção do mundo. Quanto pior o estado mental do personagem, mais a realidade começa a falhar.
+Ela influencia:
 
-A sanidade influencia:
-
-- sons falsos;
 - vultos;
-- vozes no rádio;
-- música distorcida;
-- aparições humanas;
-- objetos mudando de lugar;
-- mapas mentirosos;
+- sons falsos;
+- vozes;
+- distorções visuais;
+- rádio;
+- música;
 - inimigos psicológicos;
-- eventos sobrenaturais ambíguos;
-- diálogos com versões de si mesmo.
-
-O jogo nunca precisa deixar totalmente claro se as aparições são alucinações, memórias, fantasmas ou fragmentos quebrados da mente do protagonista. A dúvida faz parte da experiência.
-
----
+- falsas missões;
+- memória;
+- percepção do mapa;
+- intensidade do coma.
 
 ### Colapso do mundo
 
-Sem humanos para manter a infraestrutura, o planeta começa a falhar.
+Mesmo dentro do coma, o mundo parece seguir uma lógica de degradação:
 
-Com o passar do tempo, o jogador poderá enfrentar:
-
-- queda total da rede elétrica;
-- incêndios urbanos;
-- esgoto entupido;
-- inundações;
-- rompimento de barragens;
-- falhas industriais;
-- zonas químicas contaminadas;
-- áreas radioativas;
-- pontes danificadas;
+- queda de energia;
+- mercados apodrecendo;
 - ruas bloqueadas;
-- vegetação tomando conta das cidades;
-- animais ocupando espaços urbanos.
+- incêndios;
+- inundações;
+- hospitais escuros;
+- estradas vazias;
+- vegetação invadindo a cidade;
+- regiões proibidas.
 
-O jogador herdou o planeta inteiro, mas esse planeta está apodrecendo.
-
----
-
-## Música como mecânica
-
-A música é uma das partes centrais da identidade de **WAE**.
-
-Em vez de funcionar apenas como trilha sonora tradicional, a música existe dentro do mundo. Ela toca em rádios, fitas cassete, vinis, carros, televisões, gravadores, jukeboxes e caixas de som abandonadas.
-
-A trilha original do jogo busca inspiração em atmosferas de rock clássico, pós-punk, new wave, punk, pop experimental e música nostálgica, com referências de clima e energia semelhantes a AC/DC, Molchat Doma, Queen, Prince, Beatles, Kate Bush, The Police e The Clash.
-
-As músicas devem ser originais, sem copiar melodias, letras, riffs ou gravações protegidas.
-
-Quando o protagonista está lúcido, as faixas tocam normalmente. Quando sua sanidade cai, as músicas começam a desacelerar, desafinar, falhar, receber chiados, vozes escondidas e distorções.
+Essa degradação pode representar tanto o colapso imaginário do mundo quanto o estado físico do protagonista piorando na realidade.
 
 ---
 
 ## Inimigos psicológicos
 
-Os inimigos de **WAE** não são criaturas comuns. Eles são manifestações da mente do protagonista.
+Os inimigos de **WAE** são manifestações da mente tentando interpretar dor, medo, vozes, memórias e acontecimentos reais.
 
 ### Os Ecos
 
-Figuras humanas vistas de longe. Aparecem em janelas, ruas, corredores e praças. No começo, apenas observam. Quando o jogador se aproxima, desaparecem.
+Figuras humanas vistas de longe.
+
+Observam, somem e fazem o jogador duvidar da realidade.
 
 ### Falsos Sobreviventes
 
-Aparições que fingem ser pessoas reais. Elas conversam, pedem ajuda, indicam caminhos, criam falsas missões e alimentam a esperança de que ainda existe alguém vivo.
+Aparições que fingem ser pessoas reais.
+
+Podem guiar o jogador para lugares importantes ou perigosos.
+
+Algumas falas podem ser distorções de frases reais ouvidas durante o coma.
 
 ### A Multidão
 
-Quando a sanidade do protagonista está muito baixa, ele pode ver a cidade cheia de pessoas novamente. Elas ficam paradas, encarando o jogador. Bloqueiam ruas, portas e corredores.
+Uma cidade inteira cheia de pessoas imóveis encarando o protagonista.
+
+Representa saudade de contato humano, medo de julgamento e sobrecarga mental.
 
 ### O Eu Antigo
 
-Uma versão do protagonista antes do fim. Limpo, saudável, calmo e humano. Ele aparece em espelhos, televisões, fotografias e sonhos.
+A versão do protagonista antes do trauma.
+
+Aparece em espelhos, televisões, fotografias e sonhos.
 
 ### O Eu Violento
 
-Uma versão agressiva e instável do protagonista. Surge quando o jogador toma decisões violentas, destrói objetos ou começa a perder o controle.
+A versão agressiva do protagonista.
+
+Representa impulsividade, desespero e perda de humanidade.
 
 ### O Eu Culpado
 
-Uma versão fraca e emocionalmente destruída do protagonista. Ele questiona por que o jogador sobreviveu enquanto todos os outros desapareceram.
+A versão quebrada do protagonista.
+
+Pergunta por que ele sobreviveu.
 
 ### O Último Eu
 
-Uma possível manifestação final da mente do protagonista.
+A manifestação final.
 
-> “Você já morreu faz tempo. Só esqueceu de cair.”
+Uma versão futura, vazia e destruída do protagonista.
 
----
+Ele pode representar a vontade de permanecer no coma, desistir da dor real ou aceitar um mundo falso onde tudo já acabou.
 
-## Combate
-
-O combate em **WAE** não é pensado como ação tradicional.
-
-Algumas ameaças podem ser enfrentadas fisicamente, mas muitas precisam ser resolvidas de outras formas. O jogador poderá enfrentar manifestações usando:
-
-- luz;
-- música;
-- sono;
-- remédios;
-- silêncio;
-- fuga;
-- coragem;
-- objetos simbólicos;
-- gravações antigas;
-- lembranças;
-- escolhas de diálogo;
-- aceitação;
-- negação;
-- confronto direto.
-
-Às vezes, atacar piora a situação. Às vezes, fugir é a única opção. Às vezes, o jogador precisa ouvir o que aquela figura tem a dizer.
+> **Você já morreu faz tempo. Só esqueceu de cair.**
 
 ---
 
-## Animais e companhia
+## Estrutura narrativa planejada
 
-Em um mundo sem humanos, animais podem se tornar a única forma real de companhia.
+### Ato 1 — A casa antiga
 
-Um cachorro, por exemplo, pode:
+O protagonista acorda na casa antiga, no meio da cidade.
 
-- alertar sobre perigos;
-- reagir a alucinações;
-- encontrar itens;
-- acompanhar o jogador;
-- reduzir solidão;
-- dormir perto do protagonista;
-- criar sensação de rotina e afeto.
+Tudo é familiar, mas errado.
 
-Porém, animais também exigem cuidado. Eles precisam de comida, água e proteção. Perder um animal pode causar impacto psicológico profundo no personagem.
+Objetivo:
 
----
+> Saia de casa.
 
-## Estrutura planejada
+### Ato 2 — Campo Mourão vazia
 
-### Capítulo 1 — O Silêncio
+O jogador explora uma cidade abandonada, coleta recursos e tenta encontrar sobreviventes.
 
-O protagonista acorda e percebe que a cidade está vazia.
-
-Objetivo inicial:
+Objetivo:
 
 > Encontre outra voz.
 
-### Capítulo 2 — A Corrida
+### Ato 3 — O hospital
 
-A cidade ainda possui recursos, mas eles estão se perdendo rapidamente.
+O hospital parece abandonado, mas possui sinais reais demais.
 
-### Capítulo 3 — Os Ecos
+Bipes, luz branca, vozes abafadas e alarmes começam a denunciar que talvez o mundo não seja real.
 
-As primeiras aparições começam.
+### Ato 4 — A estrada
 
-### Capítulo 4 — A Fuga
+O protagonista decide sair da cidade e ir em direção à chácara.
 
-O jogador precisa sair da cidade.
+A estrada representa a travessia entre trauma e possível recuperação.
 
-### Capítulo 5 — A Fazenda
+### Ato 5 — A chácara
 
-O protagonista encontra uma possível base permanente.
+A chácara parece ser um refúgio.
 
-### Capítulo 6 — O Mundo Apodrece
+O jogador tenta criar rotina, organizar recursos, ouvir música, cuidar de animais e sobreviver.
 
-O colapso estrutural se torna maior.
+Mas a paz começa a falhar.
 
-### Capítulo 7 — A Multidão
+### Ato 6 — A realidade vaza
 
-A mente do protagonista entra em uma fase crítica.
+A chácara se mistura com hospital, casa antiga e cidade.
 
-### Capítulo 8 — O Último Eu
+Vozes reais começam a atravessar o rádio.
 
-O confronto final não é contra o mundo, mas contra o próprio protagonista.
+As figuras distorcidas ficam mais claras.
+
+O protagonista percebe que talvez esteja sendo chamado de fora.
+
+### Ato 7 — O Último Eu
+
+O confronto final acontece contra a parte da mente que não quer acordar.
+
+A luta mistura combate, diálogo, memória e escolha.
+
+### Final — Acordar ou permanecer
+
+O jogador pode acordar, permanecer no mundo do coma ou acordar sem ter certeza se escapou completamente.
+
+---
+
+## Possíveis finais
+
+### Final 1 — Despertar
+
+O protagonista vence o Último Eu e acorda no hospital.
+
+O mundo real ainda existe.
+
+Mas algum elemento do coma aparece por um segundo, deixando dúvida.
+
+### Final 2 — Permanecer
+
+O protagonista escolhe ficar.
+
+A chácara vira um lugar calmo, bonito e silencioso.
+
+A música toca limpa.
+
+Parece paz.
+
+Mas talvez seja apenas a mente aceitando nunca acordar.
+
+### Final 3 — Acordar incompleto
+
+Ele acorda, volta para Campo Mourão real, mas nota detalhes impossíveis:
+
+- uma música toca sozinha;
+- alguém fica parado olhando;
+- uma frase do rádio aparece na TV;
+- uma figura do coma surge no reflexo;
+- a cidade fica silenciosa por um instante.
+
+O jogador não sabe se ele acordou de verdade ou apenas entrou em outra camada.
 
 ---
 
 ## Primeira versão jogável
 
-A primeira versão planejada será uma demo vertical chamada:
+A primeira demo planejada é:
 
 # WAE: First Silence
 
-Conteúdo planejado:
+Conteúdo inicial:
 
 - movimentação em primeira pessoa;
-- lanterna;
+- casa inicial inspirada na antiga casa do protagonista;
+- rua abandonada;
 - interação com objetos;
-- inventário simples;
-- fome, sede, sono e sanidade;
-- uma casa inicial;
-- uma rua abandonada;
-- algumas casas exploráveis;
-- mercado;
-- farmácia;
-- rádio funcional;
-- música distorcida;
+- rádio;
 - televisão com estática;
-- primeiros vultos;
-- objetivo narrativo de encontrar outra voz.
-
----
-
-## Estética visual
-
-O jogo terá uma estética retro-realista com influência de VHS, fotografia antiga, fitas cassete e terror psicológico.
-
-A direção visual busca combinar:
-
-- realismo sujo;
-- granulação;
-- neblina;
-- cores envelhecidas;
-- iluminação dramática;
-- ruas vazias;
-- interiores escuros;
-- objetos antigos;
-- rádios, televisões, vinis e fitas;
-- chuva;
-- céu pesado;
-- sensação de abandono.
+- lanterna;
+- inventário simples;
+- fome;
+- sede;
+- sono;
+- sanidade;
+- primeiros sussurros;
+- primeiro vulto;
+- primeira pista de hospital;
+- objetivo narrativo: encontrar outra voz.
 
 ---
 
 ## Tecnologia planejada
 
-O projeto está sendo planejado para desenvolvimento com:
+O projeto será desenvolvido com:
 
-- **Unreal Engine 5**;
-- **Blueprints**;
-- possível uso de **C++** futuramente;
-- **Blender** para modelagem 3D;
-- **Audacity/Reaper/FL Studio** para áudio e trilha;
-- **Krita/GIMP** para texturas e interface;
-- **Git/GitHub** para versionamento;
-- **Git LFS** para arquivos grandes;
-- **DaVinci Resolve** para trailers e materiais de divulgação.
+- Unreal Engine 5;
+- Blueprints;
+- possível uso de C++ futuramente;
+- Blender;
+- Krita/GIMP;
+- Audacity/Reaper/FL Studio;
+- Git/GitHub;
+- Git LFS;
+- DaVinci Resolve.
 
-O desenvolvimento será feito inicialmente em um PC pessoal com Windows 11, 16 GB de RAM, GTX 1060 e armazenamento SSD, com foco em otimização, modularidade e produção por zonas.
+O desenvolvimento inicial acontece em um PC pessoal, com foco em otimização, modularidade, zonas conectadas e direção artística forte.
 
 ---
 
 ## Filosofia do projeto
 
-**WAE: World After End** nasce da ideia de provar que um jogo grande não precisa começar com uma equipe enorme. Ele precisa começar com uma visão forte, sistemas bem pensados e uma identidade clara.
+**WAE** não é só um jogo sobre sobreviver ao fim do mundo.
 
-O projeto será construído de forma modular, começando por uma pequena área jogável extremamente polida, para depois expandir em zonas, capítulos, mecânicas e eventos psicológicos.
+É um jogo sobre uma mente tentando transformar dor, medo e vozes reais em uma narrativa que consiga suportar.
 
-O objetivo não é criar apenas um jogo de sobrevivência.
+O apocalipse não é apenas cenário.
 
-O objetivo é criar uma experiência sobre silêncio, memória, solidão, música, medo, esperança e a pergunta mais cruel possível:
+Ele é linguagem.
 
-> Quando o mundo inteiro acaba, o que ainda faz uma pessoa continuar?
+A cidade vazia não representa só morte.
 
----
+Ela representa isolamento.
 
-## Status do projeto
+A chácara não representa só abrigo.
 
-Atualmente, **WAE: World After End** está em fase de concepção, planejamento de mecânicas, definição de identidade visual, estrutura narrativa e escolha de tecnologias.
+Ela representa desejo de voltar.
 
-Próximas etapas:
+O rádio não é só rádio.
 
-- criação do projeto base na Unreal Engine;
-- protótipo de movimentação em primeira pessoa;
-- sistema de interação;
-- sistema inicial de inventário;
-- protótipo de sanidade;
-- primeira rua abandonada;
-- rádio funcional;
-- primeira aparição psicológica;
-- demo inicial **WAE: First Silence**.
+Ele é a ponte entre o coma e a realidade.
 
 ---
 
-## Licença e direitos autorais
+## Status
 
-As referências musicais citadas servem apenas como inspiração estética e atmosférica. O projeto não pretende utilizar músicas, melodias, letras, riffs ou gravações protegidas por direitos autorais sem autorização.
+Projeto em fase de concepção, estruturação narrativa e desenvolvimento inicial.
 
-Todas as músicas, sons, artes, modelos e sistemas finais deverão ser originais, licenciados corretamente ou provenientes de fontes permitidas para uso no projeto.
+Próximos passos:
+
+- criar projeto base na Unreal Engine;
+- implementar movimentação em primeira pessoa;
+- implementar interação;
+- criar casa inicial;
+- criar primeira rua;
+- criar rádio;
+- criar sistema inicial de sanidade;
+- criar primeira aparição;
+- criar primeira pista de realidade hospitalar;
+- publicar demo vertical.
+
+---
+
+## Aviso sobre privacidade e ficcionalização
+
+Embora o jogo seja inspirado em Campo Mourão e em lugares pessoais do criador, todos os locais devem ser ficcionalizados.
+
+Endereços, layouts reais, rotas exatas e detalhes privados não devem ser reproduzidos fielmente.
+
+A intenção é criar uma obra artística inspirada na memória, não um mapa real da vida pessoal de ninguém.
 
 ---
 
 ## Resumo
 
-**WAE: World After End** é um survival psicológico em primeira pessoa sobre a última pessoa viva da Terra.
+**WAE: World After End** é um survival psicológico em primeira pessoa sobre um protagonista que acredita ser a última pessoa viva da Terra em uma Campo Mourão abandonada.
 
-O jogador precisa sobreviver em um planeta abandonado, onde cidades apodrecem, estruturas entram em colapso e a mente humana começa a criar inimigos para preencher o silêncio.
+Ao longo da jornada, ele percebe que os delírios, sussurros, pessoas distorcidas e eventos impossíveis talvez sejam ecos reais de médicos, familiares, sons e procedimentos acontecendo enquanto ele está em coma.
 
-O mundo acabou.
+O apocalipse era falso.
 
-A música ainda toca.
+Mas os sinais eram reais.
 
-E talvez isso seja o mais assustador.
+E acordar talvez seja mais assustador do que continuar no fim do mundo.
